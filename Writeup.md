@@ -1,6 +1,6 @@
 Sorted from best prospect to worst prospect. Found via Twitter and Google searches for "image dedupe"
 
-App name:imagededupe
+App name: imagededupe
 Link:https://github.com/idealo/imagededup
 Summary: Open source deduper available through GitHub
 
