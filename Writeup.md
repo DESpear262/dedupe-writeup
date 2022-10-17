@@ -10,6 +10,7 @@ Pros: Free, installable with pip, no apparent room for complex dependencies or n
 
 Cons: Ummm... benchmarks aren't up to date and may not hold?
 
+---
 
 App name: fdupes
 
@@ -21,6 +22,7 @@ Pros: Free, installable with apt-get, yum, etc. good capability documentation, w
 
 Cons: Not optimized for images, no performance data available
 
+---
 
 App name: CloneSpy
 
@@ -32,6 +34,7 @@ Pros: Apparently GUI-based, free
 
 Cons: Poor documentation, incompatible with non-Windows
 
+---
 
 App name: PhotoDeduper
 
@@ -43,6 +46,7 @@ Pros: Free "to try" (no further detail on what that means). GUI-based interface.
 
 Cons: Windows-only. "Free to try", no further detail on what that means
 
+---
 
 App name: image-deduper
 
